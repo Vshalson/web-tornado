@@ -19,3 +19,21 @@ $ docker run --rm -e AWS_ACCESS_KEY_ID=my-key-id -e AWS_SECRET_ACCESS_KEY=my-sec
 
 ## Preparation 
 Update `WHOOK` variable with discord webhook in ./attacks/full.sh and ./attacks/basic.sh
+
+
+## Tools and Online Service we Use
+* Corsy
+* Striker
+* discord.sh
+* SecretFinder.py
+* ffuf
+* waybackurls
+* gau
+* crt.sh
+* certspotter
+* alienvault.com
+* bufferover.run
+* amass
+* subfinder
+* hakrawler
+* corsy 
